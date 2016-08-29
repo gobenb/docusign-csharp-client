@@ -69,7 +69,7 @@ namespace TestProj
             // the document (file) we want signed
             const string SignTest1File = @"[PATH/TO/DOCUMENT/TEST.PDF]";
 
-            // instantiate api client with appropriate environment (for production change to www.docusign.net/restapi)
+            // instantiate api client with appropriate environment (for production change to www., na2., eu1. or eu depending on how you have been setup in the Docusign portal)
             configureApiClient("https://demo.docusign.net/restapi");
 
             //===========================================================
@@ -149,7 +149,7 @@ namespace TestProj
             string templateId = "[TEMPLATE_ID]";
             string templateRoleName = "[TEMPLATE_ROLE_NAME]";
 
-            // instantiate api client with appropriate environment (for production change to www.docusign.net/restapi)
+            // instantiate api client with appropriate environment (for production change to www., na2., eu1. or eu depending on how you have been setup in the Docusign portal)
             configureApiClient("https://demo.docusign.net/restapi");
 
             //===========================================================
@@ -204,7 +204,7 @@ namespace TestProj
             // provide a valid envelope ID from your account.  
             string envelopeId = "[ENVELOPE_ID]]";
 
-            // instantiate api client with appropriate environment (for production change to www.docusign.net/restapi)
+            // instantiate api client with appropriate environment (for production change to www., na2., eu1. or eu depending on how you have been setup in the Docusign portal)
             configureApiClient("https://demo.docusign.net/restapi");
 
             //===========================================================
@@ -239,7 +239,7 @@ namespace TestProj
             // provide a valid envelope ID from your account.  
             string envelopeId = "[ENVELOPE_ID]";
 
-            // instantiate api client with appropriate environment (for production change to www.docusign.net/restapi)
+            // instantiate api client with appropriate environment (for production change to www., na2., eu1. or eu depending on how you have been setup in the Docusign portal)
             configureApiClient("https://demo.docusign.net/restapi");
 
             //===========================================================
@@ -272,7 +272,7 @@ namespace TestProj
             string username = "[EMAIL]";
             string password = "[PASSWORD]";
 
-            // instantiate api client with appropriate environment (for production change to www.docusign.net/restapi)
+            // instantiate api client with appropriate environment (for production change to www., na2., eu1. or eu depending on how you have been setup in the Docusign portal)
             configureApiClient("https://demo.docusign.net/restapi");
 
             //===========================================================
@@ -320,7 +320,7 @@ namespace TestProj
             // provide a valid envelope ID from your account.  
             string envelopeId = "[ENVELOPE_ID]]";
 
-            // instantiate api client with appropriate environment (for production change to www.docusign.net/restapi)
+            // instantiate api client with appropriate environment (for production change to www., na2., eu1. or eu depending on how you have been setup in the Docusign portal)
             configureApiClient("https://demo.docusign.net/restapi");
 
             //===========================================================
@@ -381,7 +381,7 @@ namespace TestProj
             // the document (file) we want signed
             const string SignTest1File = @"[PATH/TO/DOCUMENT/TEST.PDF]";
 
-            // instantiate api client with appropriate environment (for production change to www.docusign.net/restapi)
+            // instantiate api client with appropriate environment (for production change to www., na2., eu1. or eu depending on how you have been setup in the Docusign portal)
             configureApiClient("https://demo.docusign.net/restapi");
 
             //===========================================================
@@ -474,7 +474,7 @@ namespace TestProj
             // the document (file) we want signed
             const string SignTest1File = @"[PATH/TO/DOCUMENT/TEST.PDF]";
 
-            // instantiate api client with appropriate environment (for production change to www.docusign.net/restapi)
+            // instantiate api client with appropriate environment (for production change to www., na2., eu1. or eu depending on how you have been setup in the Docusign portal)
             configureApiClient("https://demo.docusign.net/restapi");
 
             //===========================================================
@@ -566,7 +566,7 @@ namespace TestProj
             string username = "[EMAIL]";
             string password = "[PASSWORD]";
 
-            // instantiate api client with appropriate environment (for production change to www.docusign.net/restapi)
+            // instantiate api client with appropriate environment (for production change to www., na2., eu1. or eu depending on how you have been setup in the Docusign portal)
             configureApiClient("https://demo.docusign.net/restapi");
 
             //===========================================================
